@@ -1,0 +1,384 @@
+Uri: https://anildag.com.tr/
+File Name: C:\Downloaded Web Sites\anildag.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://anildag.com.tr/css/all.min.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\all.min.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/css/animate.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\animate.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/css/slick.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\slick.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/css/style.css
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css\style.css
+Content Type: text/css
+
+Uri: https://anildag.com.tr/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://anildag.com.tr/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://anildag.com.tr/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://anildag.com.tr/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://anildag.com.tr/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\anildag.com.tr\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://anildag.com.tr/images/3302.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\3302.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/330bungeecord.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\330bungeecord.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/330cakmalobi.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\330cakmalobi.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/330lobi.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\330lobi.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/330opskyblock.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\330opskyblock.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/330skyblock.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\330skyblock.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/330survival.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\330survival.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://anildag.com.tr/images/dots-bg-light.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\dots-bg-light.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/images/dots-bg.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\dots-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/images/enderoyuncu.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\enderoyuncu.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/favicon.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\favicon.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/gedition.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\gedition.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/logoheader.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\logoheader.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/lordnw.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\lordnw.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/map-light.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\map-light.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/map.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\map.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/images/minelith.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\minelith.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/mineoyun.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\mineoyun.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/musteri1.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\musteri1.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/musteri2.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\musteri2.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/profile.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\profile.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/profile2.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\profile2.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/ragevas.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\ragevas.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/ryzionmc.xyz.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\ryzionmc.xyz.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/sennanetwork.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\sennanetwork.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/service-1.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\service-1.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/images/service-2.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\service-2.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/images/service-3.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\service-3.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/images/skyblock.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\skyblock.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/sonhukumdar.com.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\sonhukumdar.com.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/images/survival.png
+File Name: C:\Downloaded Web Sites\anildag.com.tr\images\survival.png
+Content Type: image/png
+
+Uri: https://anildag.com.tr/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/contact.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\contact.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/custom.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\custom.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/infinite-scroll.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\infinite-scroll.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/jquery-1.12.3.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\jquery-1.12.3.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/morphext.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\morphext.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/parallax.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/popper.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/slick.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/validator.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\validator.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/js/wow.min.js
+File Name: C:\Downloaded Web Sites\anildag.com.tr\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://anildag.com.tr/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://anildag.com.tr/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://anildag.com.tr/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://anildag.com.tr/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://anildag.com.tr/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://anildag.com.tr/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://anildag.com.tr/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://anildag.com.tr/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://anildag.com.tr/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://anildag.com.tr/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://anildag.com.tr/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\anildag.com.tr\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic
+File Name: C:\Downloaded Web Sites\anildag.com.tr\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3Uzf4c.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3Uzf4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3Uzf4c.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3Uzf4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3Uzf4c.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3Uzf4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHUzf4c.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHUzf4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHUzf4c.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHUzf4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FU0Uw.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FU0Uw.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\anildag.com.tr\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0Uw.ttf
+Content Type: font/ttf
+
